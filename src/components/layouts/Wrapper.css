@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+.top__wrapper {
+    height: 700px;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.top__wrapper .top__wrapper-subtitle {
+    font-family: 'IBM Plex Sans';
+    font-weight: 300;
+    font-size: 24px;
+    margin-top: 20px;
+}
