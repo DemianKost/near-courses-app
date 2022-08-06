@@ -12,7 +12,7 @@ const Cover = ({ name, login, coverImg }) => {
         <div className="mt-auto text-light mb-5">
           <div
             className=" ratio ratio-1x1 mx-auto mb-2"
-            style={{ maxWidth: "320px" }}
+            style={{ maxWidth: "520px" }}
           >
             <img src={coverImg} alt="" />
           </div>

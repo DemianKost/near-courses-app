@@ -48,7 +48,7 @@ function App() {
           </Container>
         </>
       ) : (
-        <Cover name="Street Food" login={login} coverImg={coverImg} />
+        <Cover name="" login={login} coverImg={coverImg} />
       )}
     </>
   );
