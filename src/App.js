@@ -48,7 +48,7 @@ function App() {
           </Container>
         </>
       ) : (
-        <Cover name="" login={login} coverImg={coverImg} />
+        <Cover name="Decentralized course system" login={login} coverImg={coverImg} />
       )}
     </>
   );
